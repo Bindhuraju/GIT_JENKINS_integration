@@ -17,7 +17,8 @@ Pipeline{
             steps{
                
                 echo "Two_stage"
-         }
+              }
+        }
        
          stage("three"){
            
